@@ -1,6 +1,6 @@
 ---
 title: The Adventure of the Veiled Lodger
-description:
+description: A woman with a disfiguring injury who rents a room from a couple, but is rumored to be hiding a dark secret.
 ---
 
 When one considers that Mr. Sherlock Holmes was in active

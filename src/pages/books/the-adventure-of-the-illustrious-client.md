@@ -1,6 +1,6 @@
 ---
 title: The Adventure of the Illustrious Client
-description:
+description: A Sherlock Holmes mystery about a wealthy man who seeks the detective's help to protect his daughter from a dangerous suitor.
 ---
 
   "It can't hurt now," was Mr. Sherlock Holmes's comment when, for the

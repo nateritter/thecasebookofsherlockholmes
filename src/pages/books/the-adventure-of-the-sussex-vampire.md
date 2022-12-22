@@ -1,6 +1,6 @@
 ---
 title: The Adventure of the Sussex Vampire
-description:
+description: A Sherlock Holmes mystery about a man whose baby is attacked by a vampire. Holmes and Watson must solve the mystery and stop the vampire before it strikes again.
 ---
 
 Holmes had read carefully a note which the last post had

@@ -1,6 +1,6 @@
 ---
 title: The Adventure of the Lion's Mane
-description:
+description: A Sherlock Holmes mystery in which a scientist is found dead with strange wounds resembling a lion's mane.
 ---
 
 It is a most singular thing that a problem which was certainly

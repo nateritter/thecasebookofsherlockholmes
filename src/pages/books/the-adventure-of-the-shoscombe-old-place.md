@@ -1,6 +1,6 @@
 ---
 title: The Adventure of the Shoscombe Old Place
-description:
+description: A mysterious death at a horse racing stable and the inheritance of a large fortune. Investigations uncover the truth behind the death and the motives of those involved.
 ---
 
 Sherlock Holmes had been bending for a long time over a

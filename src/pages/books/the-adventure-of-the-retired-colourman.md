@@ -1,6 +1,6 @@
 ---
 title: The Adventure of the Retired Colourman
-description:
+description: Sherlock Holmes investigates the strange death of a former paint salesman. Can he uncover the truth behind the man's demise before it's too late?
 ---
 
   Sherlock Holmes was in a melancholy and philosophic mood

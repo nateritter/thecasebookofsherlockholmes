@@ -1,6 +1,6 @@
 ---
 title: The Adventure of the Blanched Soldier
-description:
+description: A thrilling mystery about a soldier who has returned from war with strange, pale marks on his face.
 ---
 
 The ideas of my friend Watson, though limited, are exceedingly pertinacious. For a long time he has worried me to write an
