@@ -94,7 +94,7 @@ function Header({ navigation }) {
         </Link>
       </div>
       <div className="mr-6 -my-5 sm:mr-8 md:mr-0">
-        <Search />
+        {/* <Search /> */}
       </div>
       <div className="relative flex justify-end gap-6 basis-0 sm:gap-8 md:flex-grow">
         <ThemeSelector className="relative z-10" />
