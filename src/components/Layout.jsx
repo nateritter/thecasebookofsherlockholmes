@@ -4,11 +4,11 @@ import { useRouter } from 'next/router'
 import clsx from 'clsx'
 
 import { Hero } from '@/components/Hero'
-import { Logo, Logomark } from '@/components/Logo'
+// import { Logo, Logomark } from '@/components/Logo'
 import { MobileNavigation } from '@/components/MobileNavigation'
 import { Navigation } from '@/components/Navigation'
 import { Prose } from '@/components/Prose'
-import { Search } from '@/components/Search'
+// import { Search } from '@/components/Search'
 import { ThemeSelector } from '@/components/ThemeSelector'
 import { Analytics } from '@vercel/analytics/react';
 
