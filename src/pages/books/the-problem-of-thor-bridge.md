@@ -1,6 +1,6 @@
 ---
 title: The Problem of Thor Bridge
-description: The Problem of Thor Bridge is a short story by Arthur Conan Doyle. It was first published in The Strand Magazine in 1903.
+description:
 ---
 
 Somewhere in the vaults of the bank of Cox and Co., at Charing Cross, there is a travel-worn and battered tin dispatch-box with my name, John H. Watson, M. D., Late Indian Army,
@@ -100,41 +100,49 @@ best read this first."
 hand, ran as follows:
 
 ```
-                                              CLARIDGE'S HOTEL,
+                        CLARIDGE'S HOTEL,
 
-                                                   October 3rd.
+                             October 3rd.
 
-     DEAR MR. SHERLOCK HOLMES:
+DEAR MR. SHERLOCK HOLMES:
 
-     I can't see the best woman God ever made go to her
+I can't see the best woman God ever made go
 
-     death without doing all that is possible to save her. I can't
+to her death without doing all that is
 
-     explain things -- I can't even try to explain them, but I know
+possible to save her. I can't explain things
 
-     beyond all doubt that Miss Dunbar is innocent. You know
+-- I can't even try to explain them, but I
 
-     the facts -- who doesn't? It has been the gossip of the country.
+know beyond all doubt that Miss Dunbar is
 
-     And never a voice raised for her! It's the damned injustice
+innocent. You know the facts -- who doesn't?
 
-     of it all that makes me crazy. That woman has a heart
+It has been the gossip of the country. And
 
-     that wouldn't let her kill a fly. Well, I'll come at eleven
+never a voice raised for her! It's the damned
 
-     to-morrow and see if you can get some ray of light in the
+injustice of it all that makes me crazy. That
 
-     dark. Maybe I have a clue and don't know it. Anyhow, all I
+woman has a heart that wouldn't let her kill
 
-     know and all I have and all I am are for your use if only you
+a fly. Well, I'll come at eleven to-morrow
 
-     can save her. If ever in your life you showed your powers,
+and see if you can get some ray of light in
 
-     put them now into this case.
+the dark. Maybe I have a clue and don't know
 
-                                              Yours faithfully,
+it. Anyhow, all I know and all I have and all
 
-                                                J. NEIL GIBSON.
+I am are for your use if only you can save
+
+her. If ever in your life you showed your
+
+powers, put them now into this case.
+
+                        Yours faithfully,
+
+                          J. NEIL GIBSON.
 ```
 
 "There you have it," said Sherlock Holmes, knocking out the
@@ -670,9 +678,9 @@ could have placed the note there after death in order to furnish a
 false clue. Dear me! The note, as I remember, was quite short:
 
 ```
-            "I will be at Thor Bridge at nine o'clock."
+I will be at Thor Bridge at nine o'clock.
 
-                                            "G. DUNBAR.
+                                G. DUNBAR.
 ```
 
 Was that not so?"

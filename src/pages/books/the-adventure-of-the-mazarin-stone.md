@@ -1,6 +1,6 @@
 ---
 title: The Adventure of the Mazarin Stone
-description: The Adventure of the Mazarin Stone is a Sherlock Holmes short story by Arthur Conan Doyle. It was first published in The Strand Magazine in 1892.
+description: On the hunt for a stolen diamond, can he use his sharp intellect and powers of observation to track down the thief and recover the precious gem?
 ---
 
 It was pleasant to Dr. Watson to find himself once more in the

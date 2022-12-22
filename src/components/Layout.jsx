@@ -31,6 +31,22 @@ const navigation = [
         {
             title: 'The Adventure of the Creeping Man',
             href: '/books/the-adventure-of-the-creeping-man'
+        },
+        {
+            title: 'The Adventure of the Sussex Vampire',
+            href: '/books/the-adventure-of-the-sussex-vampire'
+        },
+        {
+            title: 'The Adventure of the Three Garridebs',
+            href: '/books/the-adventure-of-the-three-garridebs'
+        },
+        {
+            title: 'The Adventure of the Illustrious Client',
+            href: '/books/the-adventure-of-the-illustrious-client'
+        },
+        {
+            title: 'The Adveniure of the Three Gables',
+            href: '/books/the-adventure-of-the-three-gables'
         }
     ],
   },
