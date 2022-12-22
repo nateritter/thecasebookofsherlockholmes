@@ -10,6 +10,7 @@ import { Navigation } from '@/components/Navigation'
 import { Prose } from '@/components/Prose'
 import { Search } from '@/components/Search'
 import { ThemeSelector } from '@/components/ThemeSelector'
+import { Analytics } from '@vercel/analytics/react';
 
 const navigation = [
   {
@@ -27,6 +28,10 @@ const navigation = [
             title: 'The Problem of Thor Bridge',
             href: '/books/the-problem-of-thor-bridge'
         },
+        {
+            title: 'The Adventure of the Creeping Man',
+            href: '/books/the-adventure-of-the-creeping-man'
+        }
     ],
   },
 ]
@@ -273,6 +278,7 @@ export function Layout({ children, title, tableOfContents }) {
           </nav>
         </div>
       </div>
-    </>
+      <Analytics />
+      </>
   )
 }
