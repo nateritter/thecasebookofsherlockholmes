@@ -1,6 +1,8 @@
---title: The Adventure of the Creeping Man
+---
+title: The Adventure of the Creeping Man
 description: "The Adventure of the Creeping Man" by Arthur Conan Doyle is a Sherlock Holmes mystery about a professor whose behavior becomes increasingly bizarre. Can Sherlock solve the case and uncover the truth behind the professor's strange actions?
---
+---
+
 Mr. Sherlock Holmes was always of opinion that I should
 publish the singular facts connected with Professor Presbury, if
 only to dispel once for all the ugly rumours which some twenty
