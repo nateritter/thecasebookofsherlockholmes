@@ -14,7 +14,7 @@ import { Analytics } from '@vercel/analytics/react';
 
 const navigation = [
   {
-    title: 'The Case Book',
+    title: 'The Case Book of Sherlock Holmes',
     links: [
         {
             title: 'Preface',
