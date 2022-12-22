@@ -1,7 +1,7 @@
 ---
-title: The Case Book of Sherlock Holmes by Arthur Conan Doyle
-pageTitle: The Case Book of Sherlock Holmes - Arthur Conan Doyle
-description: The Case Book of Sherlock Holmes offers twelve short stories explaining the detective's work. The works included range from a soldier quarantined away because of a mystery illness to a veiled lodger with a harrowing story to confess.
+title: The Case Book of Sherlock Holmes by Arthur Conan Doyle (read for free, online)
+pageTitle: The Case Book of Sherlock Holmes - Arthur Conan Doyle (read for free, online)
+description: 12 short stories including a soldier quarantined away because of a mystery illness to a veiled lodger with a harrowing story to confess. Read all 12 stories for free online.
 ---
 
 I fear that Mr. Sherlock Holmes may become like one of those popular tenors who, having outlived their time, are still tempted to make repeated farewell bows to their indulgent audiences. This must cease and he must go the way of all flesh, material or imaginary. One likes to think that there is some fantastic limbo for the children of imagination, some strange, impossible place where the beaux of Fielding may still make love to the belles of Richardson, where Scott's heroes still may strut, Dickens's delightful Cockneys still raise a laugh, and Thackeray's worldlings continue to carry on their reprehensible careers. Perhaps in some humble corner of such a Valhalla, Sherlock and his Watson may for a time find a place, while some more astute sleuth with some even less astute comrade may fill the stage which they have vacated.

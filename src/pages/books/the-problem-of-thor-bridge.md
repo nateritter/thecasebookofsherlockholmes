@@ -1,6 +1,6 @@
 ---
 title: The Problem of Thor Bridge
-description:
+description: The detective uses a clever method to implicate someone for murder. Can he outsmart the suspects and solve the crime?
 ---
 
 Somewhere in the vaults of the bank of Cox and Co., at Charing Cross, there is a travel-worn and battered tin dispatch-box with my name, John H. Watson, M. D., Late Indian Army,
