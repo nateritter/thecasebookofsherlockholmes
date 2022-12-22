@@ -47,6 +47,26 @@ const navigation = [
         {
             title: 'The Adveniure of the Three Gables',
             href: '/books/the-adventure-of-the-three-gables'
+        },
+        {
+            title: 'The Adventure of the Blanched Soldier',
+            href: '/books/the-adventure-of-the-blanched-soldier'
+        },
+        {
+            title: "The Adventure of the Lion's Mane",
+            href: '/books/the-adventure-of-the-lions-mane'
+        },
+        {
+            title: 'The Adventure of the Retired Colourman',
+            href: '/books/the-adventure-of-the-retired-colourman'
+        },
+        {
+            title: 'The Adventure of the Veiled Lodger',
+            href: '/books/the-adventure-of-the-veiled-lodger'
+        },
+        {
+            title: 'The Adventure of the Shoscombe Old Place',
+            href: '/books/the-adventure-of-the-shoscombe-old-place'
         }
     ],
   },
