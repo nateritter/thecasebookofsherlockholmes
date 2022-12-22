@@ -8,14 +8,12 @@ untidy room of the first floor in Baker Street which had been the
 starting-point of so many remarkable adventures. He looked
 round him at the scientific charts upon the wall, the acid-charred
 bench of chemicals, the violin-case leaning in the corner, the
-coal-scuttle, which contained of old the pipes and tobacco. Fi-
-nally, his eyes came round to the fresh and smiling face of Billy,
+coal-scuttle, which contained of old the pipes and tobacco. Finally, his eyes came round to the fresh and smiling face of Billy,
 the young but very wise and tactful page, who had helped a little
 to fill up the gap of loneliness and isolation which surrounded
 the saturnine figure of the great detective.
 
-"It all seems very unchanged, Billy. You don't change, ei-
-ther. I hope the same can be said of him?"
+"It all seems very unchanged, Billy. You don't change, either. I hope the same can be said of him?"
 
 Billy glanced with some solicitude at the closed door of the
 bedroom.
@@ -36,8 +34,7 @@ way when he is keen on a case."
 
 "Yes, Billy, I know."
 
-"He's following someone. Yesterday he was out as a work-
-man looking for a job. To-day he was an old woman. Fairly took
+"He's following someone. Yesterday he was out as a workman looking for a job. To-day he was an old woman. Fairly took
 me in, he did, and I ought to know his ways by now." Billy
 pointed with a grin to a very baggy parasol which leaned against
 the sofa. "That's part of the old woman's outfit," he said.
@@ -60,8 +57,7 @@ Cantlemere --"
 
 "Yes, sir, you know what that means. He's a stiff'un, sir, if I
 may say so. I can get along with the Prime Minister, and I've
-nothing against the Home Secretary, who seemed a civil, oblig-
-ing sort of man, but I can't stand his Lordship. Neither can Mr.
+nothing against the Home Secretary, who seemed a civil, obliging sort of man, but I can't stand his Lordship. Neither can Mr.
 Holmes, sir. You see, he don't believe in Mr. Holmes and he
 was against employing him. He'd rather he failed."
 
@@ -155,8 +151,7 @@ rose to the occasion.
 "Count me in, Holmes. I have nothing to do for a day or
 two."
 
-"Your morals don't improve, Watson. You have added fib-
-bing to your other vices. You bear every sign of the busy
+"Your morals don't improve, Watson. You have added fibbing to your other vices. You bear every sign of the busy
 medical man, with calls on him every hour."
 
 "Not such important ones. But can't you have this fellow
@@ -188,8 +183,7 @@ But he is flopping about in my net all the same."
 "I've been at his very elbow all the morning. You've seen me
 as an old lady, Watson. I was never more convincing. He
 actually picked up my parasol for me once. 'By your leave,
-madame,' said he -- half-ltalian, you know, and with the South-
-ern graces of manner when in the mood, but a devil incarnate in
+madame,' said he -- half-ltalian, you know, and with the Southern graces of manner when in the mood, but a devil incarnate in
 the other mood. Life is full of whimsical happenings, Watson."
 
 "It might have been tragedy."
@@ -214,8 +208,7 @@ his heel."
 
 "Send for the police."
 
-"I probably shall. But not just yet. Would you glance care-
-fully out of the window, Watson, and see if anyone is hanging
+"I probably shall. But not just yet. Would you glance carefully out of the window, Watson, and see if anyone is hanging
 about in the street?"
 
 Watson looked warily round the edge of the curtain.
@@ -272,16 +265,14 @@ as you will remember, my own way of doing it."
 
 It was, therefore, an empty room into which Billy, a minute
 later, ushered Count Sylvius. The famous game-shot, sportsman,
-and man-about-town was a big, swarthy fellow, with a formida-
-ble dark moustache shading a cruel, thin-lipped mouth, and
+and man-about-town was a big, swarthy fellow, with a formidable dark moustache shading a cruel, thin-lipped mouth, and
 surmounted by a long, curved nose like the beak of an eagle. He
 was well dressed, but his brilliant necktie, shining pin, and
 glittering rings were flamboyant in their effect. As the door
 closed behind him he looked round him with fierce, startled
 eyes, like one who suspects a trap at every turn. Then he gave a
 violent start as he saw the impassive head and the collar of the
-dressing-gown which projected above the armchair in the win-
-dow. At first his expression was one of pure amazement. Then
+dressing-gown which projected above the armchair in the window. At first his expression was one of pure amazement. Then
 the light of a horrible hope gleamed in his dark, murderous eyes.
 He took one more glance round to see that there were no
 witnesses, and then, on tiptoe, his thick stick half raised, he
@@ -347,8 +338,7 @@ held me in view all day."
 
 "Really, sir, you compliment me. Old Baron Dowson said the
 night before he was hanged that in my case what the law had
-gained the stage had lost. And now you give my little impersona-
-tions your kindly praise?"
+gained the stage had lost. And now you give my little impersonations your kindly praise?"
 
 "It was you -- you yourself?"
 
@@ -394,8 +384,7 @@ Count Sylvius lay back in his chair with an evil smile.
 "You knew that I was after you for that. The real reason why
 you are here to-night is to find out how much I know about the
 matter and how far my removal is absolutely essential. Well, I
-should say that, from your point of view, it is absolutely essen-
-tial, for I know all about it, save only one thing, which you are
+should say that, from your point of view, it is absolutely essential, for I know all about it, save only one thing, which you are
 about to tell me."
 
 "Oh, indeed! And pray, what is this missing fact?"
@@ -486,8 +475,7 @@ hands were clenched in a convulsion of restrained emotion. He
 tried to speak, but the words would not shape themselves.
 
 "That's the hand I play from," said Holmes. "I put it all
-upon the table. But one card is missing. It's the king of dia-
-monds. I don't know where the stone is."
+upon the table. But one card is missing. It's the king of diamonds. I don't know where the stone is."
 
 "You never shall know."
 
@@ -508,8 +496,7 @@ the stone, not you."
 Billy had appeared in answer to a ring.
 
 "I think, Count, that it would be as well to have your friend
-Sam at this conference. After all, his interests should be repre-
-sented. Billy, you will see a large and ugly gentleman outside
+Sam at this conference. After all, his interests should be represented. Billy, you will see a large and ugly gentleman outside
 the front door. Ask him to come up."
 
 "If he won't come, sir?"
@@ -574,8 +561,7 @@ Now, look here, Count Sylvius. I'm a busy man and I can't
 waste time. I'm going into that bedroom. Pray make yourselves
 quite at home in my absence. You can explain to your friend
 how the matter lies without the restraint of my presence. I shall
-try over the Hoffman 'Barcarole' upon my violin. In five min-
-utes I shall return for your final answer. You quite grasp the
+try over the Hoffman 'Barcarole' upon my violin. In five minutes I shall return for your final answer. You quite grasp the
 alternative, do you not? Shall we take you, or shall we have the
 stone?"
 
@@ -601,8 +587,7 @@ swing for it."
 what to do."
 
 "Half a mo'," said the boxer, looking suspiciously at the
-bedroom door. "He's a leary cove that wants watching. I sup-
-pose he's not listening?"
+bedroom door. "He's a leary cove that wants watching. I suppose he's not listening?"
 
 "How can he be listening with that music going?"
 
@@ -663,8 +648,7 @@ him."
 "But the false bottom ain't ready."
 
 "Well, he must take it as it is and chance it. There's not a
-moment to lose." Again, with the sense of danger which be-
-comes an instinct with the sportsman, he paused and looked hard
+moment to lose." Again, with the sense of danger which becomes an instinct with the sportsman, he paused and looked hard
 at the window. Yes, it was surely from the street that the faint
 sound had come.
 
@@ -691,8 +675,7 @@ Whitehall someone else could surely take it out of my lodgings."
 "Let's have a look at it."
 
 Count Sylvius cast a somewhat unflattering glance at his
-associate and disregarded the unwashed hand which was ex-
-tended towards him.
+associate and disregarded the unwashed hand which was extended towards him.
 
 "What -- d'ye think I'm going to snatch it off you? See here,
 mister, I'm getting a bit tired of your ways."
@@ -709,8 +692,7 @@ hand, while his other pointed a revolver at the Count's head. The
 two villains staggered back in utter amazement. Before they had
 recovered Holmes had pressed the electric bell.
 
-"No violence, gentlemen -- no violence, I beg of you! Con-
-sider the furniture! It must be very clear to you that your position
+"No violence, gentlemen -- no violence, I beg of you! Consider the furniture! It must be very clear to you that your position
 is an impossible one. The police are waiting below."
 
 The Count's bewilderment overmastered his rage and fear.
@@ -758,8 +740,7 @@ we may conjecture, nothing of what has occurred."
 
 The door opened to admit a thin, austere figure with a hatchet
 face and drooping mid-Victorian whiskers of a glossy blackness
-which hardly corresponded with the rounded shoulders and fee-
-ble gait. Holmes advanced affably, and shook an unresponsive
+which hardly corresponded with the rounded shoulders and feeble gait. Holmes advanced affably, and shook an unresponsive
 hand.
 
 "How do you do, Lord Cantlemere? It is chilly for the time of
@@ -874,6 +855,5 @@ But how --"
 "The case is but half finished; the details can wait. No doubt,
 Lord Cantlemere, your pleasure in telling of this successful result
 in the exalted circle to which you return will be some small
-atonement for my practical joke. Billy, you will show his Lord-
-ship out, and tell Mrs. Hudson that I should be glad if she would
+atonement for my practical joke. Billy, you will show his Lordship out, and tell Mrs. Hudson that I should be glad if she would
 send up dinner for two as soon as possible."
