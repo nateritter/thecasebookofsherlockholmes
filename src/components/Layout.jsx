@@ -16,7 +16,7 @@ const navigation = [
     title: 'The Case Book',
     links: [
         { title: 'Preface', href: '/' },
-        { title: 'The Adventure of the Mazarin Stone', href: '/docs/the-adventure-of-the-mazarin-stone' },
+        { title: 'The Adventure of the Mazarin Stone', href: '/books/the-adventure-of-the-mazarin-stone' },
     ],
   },
 ]
